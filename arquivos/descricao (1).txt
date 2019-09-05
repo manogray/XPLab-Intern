@@ -1,0 +1,43 @@
+﻿Faça um merge utilizando as abas do arquivo: 
+
+dados.xlsx
+
+ - A chave principal que relaciona uma aba com a outra é o 
+mês.
+
+Crie um nova coluna após o merge dos arquivo que faça a diferença das colunas: orcado e realizado.
+
+Sua saída deve ser semelhante ao arquivos "dados_saida.csv".
+
+
+Faça um gráfico que relacione os meses com "orçado x realizado".
+
+Veja a imagem "figura_saida.png" de exemplo.
+
+# Dica:
+
+-  Pesquise sobre as bibliotecas pandas e matplotlib para o Python.
+
+
+Não esqueçam que: "A simplicidade é a arte de maximizar o trabalho que não precisou ser feito"
+
+Então, mão na massa e entregue o seu melhor.
+
+Esperamos receber o link do github com:
+
+1) Seu código fonte.
+2) O arquivo de saída .CSV.
+3) A imagem de saída do gráfico .PNG.
+
+
+Por favor, esperamos receber o seu e-mail com a solução para o desafio até as 10hrs do último dia útil desta semana (07/09).
+
+Não responderemos nenhuma dúvida até lá :)
+
+
+
+Abraços e bom desafio! Estamos torcendo muito por você!
+
+
+off: use a linguagem que quiser.
+
